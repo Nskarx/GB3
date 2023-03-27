@@ -8,6 +8,6 @@
 // Console.WriteLine(username);
 
 Console.Write("Введите ваше имя: ");
-string username = Console.ReadLine();
+string username = Console.ReadLine()!;
 Console.Write("привет,");
 Console.Write(username);
